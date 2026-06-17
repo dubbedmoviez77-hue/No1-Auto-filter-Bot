@@ -122,7 +122,7 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/dubbedmoviez_77') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/dubbedmoviez_77') # Owner link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/DM_77_help_centre_bot') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/dubbedmoviez_77') # Update channel link for the bot
 
 # ============================
@@ -164,7 +164,7 @@ STREAM_MODE = bool(environ.get('STREAM_MODE', True)) # Set Stream mode True or F
 PREMIUM_STREAM_MODE = bool(environ.get('PREMIUM_STREAM_MODE', False)) # Set Stream mode True or False only for premium users
 MAINTENANCE = is_enabled(environ.get('MAINTENANCE', "False"), False)
 
-
+ 
 # ============================
 # Bot Configuration
 # ============================
