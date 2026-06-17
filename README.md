@@ -35,14 +35,6 @@ Try the live bot here:
 
 ---
 
-## 🛠 Need Help Deploying?
-
-Join our support group for assistance:
-
-[![Join Support Group](https://t.me/+LWZOcKe33uU4NjE1)
-
----
-
 ## 🌟 Features
 - ✅ Double db support 
 - ✅ Stream Mode Toggle  
